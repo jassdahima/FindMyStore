@@ -1,6 +1,6 @@
 ## Find My Store -- Integrated with Google Maps
 
-**An Android application built with Jetpack Compose that helps users find nearby stores. The app displays a list of the closest stores, allows users to search for specific locations, and provides an interactive map view to visualize store locations.**
+An Android application built with Jetpack Compose that helps users find nearby stores. The app displays a list of the closest stores, allows users to search for specific locations, and provides an interactive map view to visualize store locations.
 
 
 ## ✨ Features
