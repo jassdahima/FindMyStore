@@ -52,11 +52,10 @@
 
 ## 🚀 Getting Started
 
- - Setup1 Clone the repositoryShell Scriptsh
- git clone https://github.com/your-username/FindMyStore.git2.
-
-- Secure Your API KeysThis project requires API keys for Google Maps and Firebase. For security reasons, these keys are not checked into version control. You must provide your own.
-
+1.Clone the RepositoryOpen your terminal, navigate to your desired directory, and run the following command:
+ 
+2.sh
+git clone https://github.com/your-username/FindMyStore.git
 
 
 
