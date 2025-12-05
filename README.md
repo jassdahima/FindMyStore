@@ -18,7 +18,6 @@
 
 <img src="https://github.com/jassdahima/FindMyStore/blob/main/Screenshots/findmystore3.png" width="250" /> <img src="https://github.com/jassdahima/FindMyStore/blob/main/Screenshots/findmystore4.png" width="250" />
 
-<img src="https://github.com/jassdahima/FindMyStore/blob/main/Screenshots/findmystore5.png" />
 
 
 
