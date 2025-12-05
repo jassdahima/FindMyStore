@@ -51,13 +51,7 @@
  - **Kotlin Coroutines**: For managing background threads and asynchronous operations.
 
 ## 🚀 Getting Started
-
-1.Clone the RepositoryOpen your terminal, navigate to your desired directory, and run the following command:
  
-2.sh
+
+sh
 git clone https://github.com/your-username/FindMyStore.git
-
-
-
-
-
